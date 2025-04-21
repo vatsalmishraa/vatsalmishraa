@@ -16,7 +16,7 @@
 <h2 align="center">🧙‍♂️ About Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E93F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MEAN+&+MERN+Specialist;Node+JS+Developer;AI+Enthusiast;Clean+Code+Advocate;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E93F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MEAN/MERN+Specialist;Node+JS+Developer;AI+Enthusiast;Clean+Code+Advocate;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <br />
