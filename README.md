@@ -41,15 +41,6 @@
 
 <br />
 
-<h2 align="center">🌟 GitHub Stats</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalmishraa&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vatsalmishraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<br />
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
